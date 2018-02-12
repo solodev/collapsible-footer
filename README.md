@@ -149,7 +149,7 @@ The tutorial contains the following basic HTML markup.
 </footer>
 ```
 
-## CSS
+## SCSS
 
 All required SCSS is contained with collapsible-footer.scss
 
