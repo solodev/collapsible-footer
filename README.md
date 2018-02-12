@@ -1,8 +1,8 @@
 # collapsible-footer
-There’s a ton of information floating around about the ‘perfect landing page,’ but don’t forget about your website’s most important page -- the pricing page! Design can boost your pricing strategy by a few visual tricks and simple SCSS. And while this tutorial isn’t a one-size-fits-all solution, it can definitely help boost your click through rate and (hopefully) your bottom line!
+Don't neglect the small elements of building a mobile-responsive website. Here's how to craft a collapsible footer to improve your visitors' navigation regardless of what screen they use.
   		  
 ## Tutorial		  
-For detailed instruction's, view Solodev's [How to Design Pricing Boxes that Get People to Click](https://www.solodev.com/blog/how-to-design-pricing-boxes-that-get-people-to-click-.stml) article.
+For detailed instruction's, view Solodev's [How to Create a Collapsible Footer](https://www.solodev.com/blog/how-to-create-a-collapsible-footer.stml) article.
  
 ## Demo
   		  
